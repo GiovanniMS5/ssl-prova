@@ -1,0 +1,1 @@
+passos no print: primeiro houve a tentativa de ir para o diretório /etc/ssl/certificates, teve um retorno de que o mesmo não existe, após isso foi usado o comando mkdir para criar o diretório, foi utilizado o comando ls e finalmente o terminal foi direcionado utilizando o comando cd /etc/ssl/certificates.
